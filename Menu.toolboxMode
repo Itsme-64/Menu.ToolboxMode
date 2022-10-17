@@ -1,0 +1,5 @@
+"toolbox_mode_button@start.main_button": {
+"$pressed_button_name": "button.toolbox_mode",
+"$button_text": "menu.toolboxMode",
+"$focus_override_right": "profile_button"
+},
